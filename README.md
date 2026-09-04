@@ -10,7 +10,7 @@ Built the NMG.com domain from scratch on Windows Server, designed a department-b
 
 ## Video Walkthrough
 
-[Video walkthrough link — to be added]
+[Video walkthrough](https://www.loom.com/share/757aa2d440bb41668a4f2e9f1876f172)
 
 ## Tools Used
 - Windows Server
